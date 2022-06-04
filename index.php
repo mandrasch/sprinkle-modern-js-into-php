@@ -20,7 +20,7 @@
     <h2>Experiments:</h2>
     <ul>
         <li><a href="/mix-vue3-sfc/">LaravelMix + Vue3 Single File Components</a></li>
-        <li><a href="/WIP_mix-svelte/">LaravelMix + Svelte (WIP)</a></li>
+        <li><a href="/WIP_mix-svelte/">LaravelMix + Svelte (WIP: Inline styles are not added in build?!)</a></li>
         <li>Maybe some more are coming</li>
     </ul>
 </body>
