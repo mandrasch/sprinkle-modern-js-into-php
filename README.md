@@ -15,3 +15,8 @@ in each directory first.
 Each directory has it's own README.md
 
 Resources: See folders for experiments
+
+## TODOs
+
+- [ ] https://github.com/tyler36/ddev-browsersync#laravel-mix-configuration
+- [ ] Add https://laravel.com/docs/9.x/mix#versioning-and-cache-busting, Laravel has own `mix()` blade directive. Does it just read contents of `mix-manifest.json`
