@@ -1,7 +1,7 @@
 Status: Work in Progress, CSS styles are missing
 
 - npm install
-- (npm run watch)
+- (npm run watch) - not implemented yet with https://github.com/tyler36/ddev-browsersync
 - npx mix --production
 
 ## How was this created?
