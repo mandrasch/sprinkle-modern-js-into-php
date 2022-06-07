@@ -19,4 +19,4 @@ Resources: See folders for experiments
 ## TODOs
 
 - [ ] https://github.com/tyler36/ddev-browsersync#laravel-mix-configuration
-- [ ] Add https://laravel.com/docs/9.x/mix#versioning-and-cache-busting, Laravel has own `mix()` blade directive. Does it just read contents of `mix-manifest.json`
+- [ ] Add https://laravel.com/docs/9.x/mix#versioning-and-cache-busting, Laravel has own `mix()` blade directive. Does it just read contents of `mix-manifest.json` (js and css value)? According to https://laravel-mix.com/docs/6.0/versioning#laravel-users it seems so.
