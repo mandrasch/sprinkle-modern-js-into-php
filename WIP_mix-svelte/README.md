@@ -1,3 +1,4 @@
+Status: Work in Progress, CSS styles are missing
 
 - npm install
 - (npm run watch)
