@@ -14,6 +14,4 @@ in each directory first.
 
 Each directory has it's own README.md
 
-Resources:
-
-- https://laracasts.com/series/whats-new-in-vue-3/episodes/14 => for vue we always need id="app"?
+Resources: See folders for experiments
